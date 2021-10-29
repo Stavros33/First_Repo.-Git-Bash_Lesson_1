@@ -1,0 +1,9 @@
+#!/bin/bash
+cd 2.1
+mkdir HW1 HW2 HW3
+cd HW1
+touch first.txt second.txt third.txt fours.json fifth.json
+mkdir First Second Third
+ls -la
+mv first.txt second.txt First
+
